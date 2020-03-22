@@ -1,0 +1,18 @@
+[
+
+{
+"_id":"5e71a769c4136b0a34c336a1",
+"id":1,
+"Name":"Manojkumar",
+"Dob":"07/07/1995",
+"Department":"IT"
+},
+
+{
+    "_id":"5e71a79ac4136b0a34c336a2",
+    "id":2,
+    "Name":"Araveti",
+    "Dob":"03/06/1994",
+    "Department":"IT"
+}
+]
